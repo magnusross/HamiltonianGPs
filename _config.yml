@@ -1,3 +1,6 @@
+title: Learning Energy Conserving Dynamics Efficiently with Hamiltonian Gaussian Processes
+description: In Transactions on Machine Learning Research (TMLR), March 2023
+author: Magnus Ross and Markus Heinonen
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
