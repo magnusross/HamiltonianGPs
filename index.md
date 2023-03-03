@@ -1,6 +1,6 @@
+This website contains sample trajectory visualizations for our TMLR 2023 paper "Learning Energy Conserving Dynamics Efficiently with\\ Hamiltonian Gaussian Processes".
 
-
-## Sample model predictions
+## Sample trajectory predictions
 
 ### Fixed pendulum
 <p align="center">
