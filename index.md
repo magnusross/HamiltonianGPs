@@ -1,4 +1,4 @@
-# Learning Energy Conserving Dynamics Efficiently with Hamiltonian Gaussian Processes
+
 
 ## Sample model predictions
 
