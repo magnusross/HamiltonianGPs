@@ -1,5 +1,3 @@
-Hello!
-
 ## Sample model predictions
 
 ### Fixed pendulum
